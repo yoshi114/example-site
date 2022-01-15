@@ -6,7 +6,16 @@
     <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jan 2022 17:57:54 +0900</lastBuildDate><atom:link href="https://yoshi114.github.io/example-site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jan 2022 23:04:31 +0900</lastBuildDate><atom:link href="https://yoshi114.github.io/example-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Category</title>
+      <link>https://yoshi114.github.io/example-site/catetories/first-category/</link>
+      <pubDate>Sat, 15 Jan 2022 23:04:31 +0900</pubDate>
+      
+      <guid>https://yoshi114.github.io/example-site/catetories/first-category/</guid>
+      <description>first page under categories section</description>
+    </item>
+    
     <item>
       <title>Post_created_under_sub_directory</title>
       <link>https://yoshi114.github.io/example-site/posts/firstdir/post_created_under_sub_directory/</link>
