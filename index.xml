@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My blog</title>
-    <link>http://example.org/</link>
+    <link>https://yoshi114.github.io/example-site/</link>
     <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jan 2022 17:57:54 +0900</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jan 2022 17:57:54 +0900</lastBuildDate><atom:link href="https://yoshi114.github.io/example-site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post_created_under_sub_directory</title>
-      <link>http://example.org/posts/firstdir/post_created_under_sub_directory/</link>
+      <link>https://yoshi114.github.io/example-site/posts/firstdir/post_created_under_sub_directory/</link>
       <pubDate>Fri, 14 Jan 2022 17:57:54 +0900</pubDate>
       
-      <guid>http://example.org/posts/firstdir/post_created_under_sub_directory/</guid>
+      <guid>https://yoshi114.github.io/example-site/posts/firstdir/post_created_under_sub_directory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Third_post_under_en</title>
-      <link>http://example.org/posts/third_post_under_en/</link>
+      <link>https://yoshi114.github.io/example-site/posts/third_post_under_en/</link>
       <pubDate>Fri, 14 Jan 2022 17:48:40 +0900</pubDate>
       
-      <guid>http://example.org/posts/third_post_under_en/</guid>
+      <guid>https://yoshi114.github.io/example-site/posts/third_post_under_en/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2つ目のポスト</title>
-      <link>http://example.org/posts/second_post_under_en/</link>
+      <link>https://yoshi114.github.io/example-site/posts/second_post_under_en/</link>
       <pubDate>Fri, 14 Jan 2022 17:48:35 +0900</pubDate>
       
-      <guid>http://example.org/posts/second_post_under_en/</guid>
+      <guid>https://yoshi114.github.io/example-site/posts/second_post_under_en/</guid>
       <description>日本語の記事 これもちゃんと表示できるのか 　新型コロナウイルスの水際対策について、政府は14日、すべての国・地域からの入国者に対して求めていた14日間の待機を、10日間に短縮すると発表した。
 　感染から発症までに時間がかかるため、入国後に健康観察などを実施していたが、世界中で流行するオミクロン株は従来株よりも潜伏期間が短いと判断した。
 　滞在国・地域のオミクロン株の流行度などに応じて、3～10日間求めていた施設待機は続ける。（市野塊）</description>
@@ -38,19 +38,19 @@
     
     <item>
       <title>Sirst_post_under_en</title>
-      <link>http://example.org/posts/sirst_post_under_en/</link>
+      <link>https://yoshi114.github.io/example-site/posts/sirst_post_under_en/</link>
       <pubDate>Fri, 14 Jan 2022 17:48:20 +0900</pubDate>
       
-      <guid>http://example.org/posts/sirst_post_under_en/</guid>
+      <guid>https://yoshi114.github.io/example-site/posts/sirst_post_under_en/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First_post_under_en</title>
-      <link>http://example.org/posts/first_post_under_en/</link>
+      <link>https://yoshi114.github.io/example-site/posts/first_post_under_en/</link>
       <pubDate>Fri, 14 Jan 2022 17:41:38 +0900</pubDate>
       
-      <guid>http://example.org/posts/first_post_under_en/</guid>
+      <guid>https://yoshi114.github.io/example-site/posts/first_post_under_en/</guid>
       <description>first post udner en
 text text text text text text text text text text text text text text text text text text text text text text
 text text text text text text text text text text text text text text text text text text text text text text
