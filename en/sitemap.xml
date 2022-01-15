@@ -3,6 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2022-01-14T17:57:54+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://example.org/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/firstdir/post_created_under_sub_directory/</loc>
+    <lastmod>2022-01-14T17:57:54+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2022-01-14T17:57:54+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/third_post_under_en/</loc>
+    <lastmod>2022-01-14T17:48:40+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/second_post_under_en/</loc>
+    <lastmod>2022-01-14T17:48:35+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/sirst_post_under_en/</loc>
+    <lastmod>2022-01-14T17:48:20+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/first_post_under_en/</loc>
+    <lastmod>2022-01-14T17:41:38+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://example.org/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -15,22 +74,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://example.org/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://example.org/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://example.org/"
                 />
   </url>
   
