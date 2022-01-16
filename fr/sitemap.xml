@@ -35,6 +35,22 @@
   </url>
   
   <url>
+    <loc>https://yoshi114.github.io/example-site/fr/series/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://yoshi114.github.io/example-site/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://yoshi114.github.io/example-site/fr/series/"
+                />
+  </url>
+  
+  <url>
     <loc>https://yoshi114.github.io/example-site/fr/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
